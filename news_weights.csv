@@ -1,17 +1,16 @@
 ﻿source,domain,weekly_use,weight,num_articles
-Fox News online,foxnews.com,18,23.68421053,24
-CNN.com,cnn.com,17,22.36842105,22
-Yahoo! News,news.yahoo.com,16,21.05263158,21
-Local television news sites online,,16,21.05263158,21
-New York Times online,nytimes.com,15,19.73684211,20
-USA Today online,usatoday.com,13,17.10526316,17
-NBC/MSNBC News online,nbcnews.com,11,14.47368421,14
-Washington Post online,washingtonpost.com,11,14.47368421,14
-BBC News online,bbc.com,11,14.47368421,14
-ABC News online,abcnews.go.com,10,13.15789474,13
-CBS News online,cbsnews.com,10,13.15789474,13
-MSN News,msnbc.com,9,11.84210526,12
-Wall Street Journal online,wsj.com,9,11.84210526,12
-New York Post online,nypost.com,8,10.52631579,11
-NPR News online,npr.org,8,10.52631579,11
-Newsmax online,newsmax.com,8,10.52631579,11
+Fox News online,foxnews.com,18,25.86206897,26
+CNN.com,cnn.com,17,24.42528736,25
+Yahoo! News,news.yahoo.com,16,22.98850575,23
+New York Times online,nytimes.com,15,21.55172414,22
+USA Today online,usatoday.com,13,18.67816092,19
+NBC/MSNBC News online,nbcnews.com,11,15.8045977,16
+Washington Post online,washingtonpost.com,11,15.8045977,16
+BBC News online,bbc.com,11,15.8045977,16
+ABC News online,abcnews.go.com,10,14.36781609,14
+CBS News online,cbsnews.com,10,14.36781609,14
+MSN News,msnbc.com,9,12.93103448,13
+Wall Street Journal online,wsj.com,9,12.93103448,13
+New York Post online,nypost.com,8,11.49425287,11
+NPR News online,npr.org,8,11.49425287,11
+Newsmax online,newsmax.com,8,11.49425287,11
