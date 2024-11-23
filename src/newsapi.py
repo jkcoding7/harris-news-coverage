@@ -33,14 +33,12 @@ def fetch_news(api_key, politician, start_date, end_date, max_articles):
 
 def save_as_csv(file_name, articles, fields):
     def clean_text(text):
-        # Remove newline characters and strip leading/trailing whitespace
         return text.replace('\n', ' ').replace('\r', ' ').strip() if text else ''
     
     with open(file_name, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fields)
-        writer.writeheader()  # Write the header row
+        writer.writeheader() 
         for article in articles:
-            # Clean the fields to ensure one-line entries
             writer.writerow({field: clean_text(article.get(field, '')) for field in fields})
 
 if __name__ == '__main__':
