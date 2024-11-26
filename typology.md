@@ -55,7 +55,6 @@ Reaction to Harris’ loss and news about events/stories that occurred after the
 News about Harris campaign activities, including public appearances, donations/expenditures and general campaign news.
 
 ### Examples
-- Kamala Harris Announces Madison Rally With Gracie Abrams & The National, Tim Walz Courts Midwest Emo Vote
 - Joe Rogan Open To Kamala Harris Podcast Interview But Only If She Travels To Him
 - FCC Commissioner Claims Kamala Harris' SNL Cameo Was A "Clear And Blatant" Effort To Evade Equal Time Rule
 
@@ -66,3 +65,5 @@ News about Harris campaign activities, including public appearances, donations/e
   - This article focusses on general campaign news more than Donald Trump.
 - Kamala Harris raised $1 billion-plus in defeat. She's still sending persistent appeals to donors
   - Although referencing the election defeat, this article is about campaign finances.
+- Kamala Harris Announces Madison Rally With Gracie Abrams & The National, Tim Walz Courts Midwest Emo Vote
+  - This article falls under campaign activity due to the clause about Tim Walz, indicating the article is discussing campaign news. Without the Walz story, it would fall under the _celebrity_ category
