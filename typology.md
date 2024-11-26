@@ -15,7 +15,7 @@ The following examples clearly focus on celebrity support for Kamala Harris:
   - Although this article could be seen as 'campagin activity', its focus is on the celebrity support.
 
 ## Trump
-News focusing on Donald Trump - article must be primarily about Trump and/or his actions, only referencing Harris by association.
+News focusing on Donald Trump - article must be primarily about Trump (or J.D. Vance by association) and/or his actions, only referencing Harris by association.
 
 ### Examples
 The following articles clearly focus on the actions of Donald Trump:
@@ -56,12 +56,13 @@ News about Harris campaign activities, including public appearances, donations/e
 
 ### Examples
 - Kamala Harris Announces Madison Rally With Gracie Abrams & The National, Tim Walz Courts Midwest Emo Vote
-- Bill Gates dropped a cool $50 million backing Kamala Harris
+- Joe Rogan Open To Kamala Harris Podcast Interview But Only If She Travels To Him
+- FCC Commissioner Claims Kamala Harris' SNL Cameo Was A "Clear And Blatant" Effort To Evade Equal Time Rule
 
 ### Edge Cases
-If an article is about a _celebrity donation_, it should be classified under _campaign activity_; the mention of a donation overrules the celebrity involvement. Other edge cases include:
+- Bill Gates dropped a cool $50 million backing Kamala Harris
+  - If an article is about a _celebrity donation_, it should be classified under _campaign activity_; the mention of a donation overrules the celebrity involvement.
 - Kamala Harris, Donald Trump rallying in Wisconsin in final US election push
   - This article focusses on general campaign news more than Donald Trump.
 - Kamala Harris raised $1 billion-plus in defeat. She's still sending persistent appeals to donors
   - Although referencing the election defeat, this article is about campaign finances.
-  - 
