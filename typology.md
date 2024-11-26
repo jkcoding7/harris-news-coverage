@@ -15,7 +15,7 @@ The following examples clearly focus on celebrity support for Kamala Harris:
   - Although this article could be seen as 'campagin activity', its focus is on the celebrity support.
 
 ## Trump
-News focusing on Donald Trump - article must be primarily about Trump and/or his actions, only referencing Harris by association.
+News focusing on Donald Trump - article must be primarily about Trump (or J.D. Vance by association) and/or his actions, only referencing Harris by association.
 
 ### Examples
 The following articles clearly focus on the actions of Donald Trump:
