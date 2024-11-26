@@ -59,7 +59,9 @@ News about Harris campaign activities, including public appearances, donations/e
 - Bill Gates dropped a cool $50 million backing Kamala Harris
 
 ### Edge Cases
+If an article is about a _celebrity donation_, it should be classified under _campaign activity_; the mention of a donation overrules the celebrity involvement. Other edge cases include:
 - Kamala Harris, Donald Trump rallying in Wisconsin in final US election push
   - This article focusses on general campaign news more than Donald Trump.
 - Kamala Harris raised $1 billion-plus in defeat. She's still sending persistent appeals to donors
   - Although referencing the election defeat, this article is about campaign finances.
+  - 
