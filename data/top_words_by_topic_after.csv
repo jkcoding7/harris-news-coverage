@@ -1,51 +1,51 @@
 topic,word,score
-Analysis,harris,6.405136170878748
-Analysis,kamala,5.640981772292553
-Analysis,election,3.438886771070784
-Analysis,trump,3.3613212633532825
-Analysis,voters,2.9368481182480877
-Analysis,president,2.849784332995327
-Analysis,donald,2.7563963890929886
-Analysis,lost,2.5980049013827804
-Analysis,joe,2.2902324506682676
-Analysis,did,2.1741199261567425
-Campaign Activity,harris,3.047290450569513
-Campaign Activity,kamala,2.912948869761169
-Campaign Activity,campaign,2.791980426202331
-Campaign Activity,billion,1.8382969324684235
-Campaign Activity,million,1.5432054430221447
-Campaign Activity,president,1.5375717965098659
-Campaign Activity,donations,1.3374484571129663
-Campaign Activity,vice,1.2992783468304865
-Campaign Activity,winfrey,1.267976766661555
-Campaign Activity,paid,1.1854084672247025
-Celebrity,harris,2.779723040137839
-Celebrity,paid,2.7074250433925067
-Celebrity,oprah,2.6506080785010417
-Celebrity,kamala,2.5744403044234683
-Celebrity,winfrey,2.416600536242479
-Celebrity,million,1.8850912928813932
-Celebrity,campaign,1.712156695065113
-Celebrity,rally,1.4709092159080304
-Celebrity,endorse,1.3565594306674684
-Celebrity,cardi,1.1892959042666542
-Fallout & Moving Forward,harris,8.635801883342891
-Fallout & Moving Forward,kamala,8.196877869116621
-Fallout & Moving Forward,election,5.587117552172155
-Fallout & Moving Forward,biden,5.113860744803838
-Fallout & Moving Forward,president,5.042934154747416
-Fallout & Moving Forward,trump,4.31571883310815
-Fallout & Moving Forward,loss,3.905236145051214
-Fallout & Moving Forward,donald,3.573655407207603
-Fallout & Moving Forward,joe,3.4776493072129973
-Fallout & Moving Forward,vice,3.4598512565163593
-Trump,harris,1.186928949440567
-Trump,kamala,1.186928949440567
-Trump,trump,1.1014350011023908
-Trump,campaign,0.9506401105166286
-Trump,interview,0.8435179658092709
-Trump,debt,0.7331534571249502
-Trump,fcc,0.723115245072949
-Trump,carr,0.7189505477140506
-Trump,donald,0.6713000239906667
-Trump,says,0.6508107733810939
+Analysis,election,3.494222370716178
+Analysis,trump,3.411630730739693
+Analysis,voters,2.976827405799062
+Analysis,president,2.8842088959436607
+Analysis,donald,2.7894282163984
+Analysis,lost,2.630130000315342
+Analysis,joe,2.3214039031207117
+Analysis,campaign,2.2034373165600867
+Analysis,presidential,2.1719848665329153
+Analysis,vice,1.9849816357002779
+Campaign Activity,campaign,2.8502458138787734
+Campaign Activity,billion,1.873182655997154
+Campaign Activity,million,1.5774068121550848
+Campaign Activity,president,1.5566315854207742
+Campaign Activity,donations,1.356886584333084
+Campaign Activity,vice,1.316917543203063
+Campaign Activity,winfrey,1.307039601949749
+Campaign Activity,paid,1.2180058980412583
+Campaign Activity,oprah,1.1826674515486533
+Campaign Activity,election,1.080506111246563
+Celebrity,paid,2.7497375254694525
+Celebrity,oprah,2.6973501720543034
+Celebrity,winfrey,2.4578715996326124
+Celebrity,million,1.9127359591131978
+Celebrity,campaign,1.7395883674728216
+Celebrity,rally,1.4900053808871199
+Celebrity,endorse,1.3769048109264541
+Celebrity,cardi,1.204508151249802
+Celebrity,election,1.1171817146877918
+Celebrity,presidential,1.0563692180311224
+Fallout & Moving Forward,election,5.625276444920608
+Fallout & Moving Forward,biden,5.15240587174428
+Fallout & Moving Forward,president,5.090841238345613
+Fallout & Moving Forward,trump,4.342722570890386
+Fallout & Moving Forward,loss,3.9279872434560077
+Fallout & Moving Forward,donald,3.6047881051156656
+Fallout & Moving Forward,joe,3.5048575732389042
+Fallout & Moving Forward,vice,3.493705459904946
+Fallout & Moving Forward,campaign,3.3698191373713136
+Fallout & Moving Forward,presidential,2.8980095877904244
+Trump,trump,1.1202910142077325
+Trump,campaign,0.9680891657624631
+Trump,interview,0.8568634969136276
+Trump,debt,0.7452932711765754
+Trump,fcc,0.7368963925513659
+Trump,carr,0.7304759555572068
+Trump,donald,0.6781170677693118
+Trump,says,0.6595137000517399
+Trump,brendan,0.6389935673652745
+Trump,news,0.6275709097875015

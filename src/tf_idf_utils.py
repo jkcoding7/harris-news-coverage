@@ -2,13 +2,15 @@ import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
+custom_stop_words = ENGLISH_STOP_WORDS.union(["kamala", "harris", "did", "didnt"])
+
 def preprocess_text(text):
     """
     Preprocesses a single text document: lowercase, remove punctuation and stopwords.
     """
     text = text.lower()  
     text = re.sub(r'[^a-z\s]', '', text) 
-    words = [word for word in text.split() if word not in ENGLISH_STOP_WORDS]
+    words = [word for word in text.split() if word not in custom_stop_words]
     return ' '.join(words)
 
 def preprocess_texts(texts):
@@ -21,7 +23,7 @@ def compute_tfidf(texts, top_n=10):
     """
     Computes TF-IDF scores and extracts the top `top_n` words with their scores.
     """
-    vectorizer = TfidfVectorizer()
+    vectorizer = TfidfVectorizer(stop_words=list(custom_stop_words))
     X = vectorizer.fit_transform(texts)
 
     # Summing TF-IDF scores for each word across all documents

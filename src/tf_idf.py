@@ -2,7 +2,7 @@ import pandas as pd
 from tf_idf_utils import preprocess_texts, compute_tfidf
 
 # Load CSV
-df = pd.read_csv("../data/final_coding_after.csv")
+df = pd.read_csv("../data/final_coding_all.csv")
 
 # Clean missing values
 df['title'] = df['title'].fillna('')
@@ -33,4 +33,4 @@ for topic, top_words in top_words_by_topic.items():
         result_data.append({'topic': topic, 'word': word, 'score': score})
 
 result_df = pd.DataFrame(result_data)
-result_df.to_csv("../data/top_words_by_topic_after.csv", index=False)
+result_df.to_csv("../data/top_words_by_topic_all.csv", index=False)

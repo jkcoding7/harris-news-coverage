@@ -1,41 +1,41 @@
 topic,word,score
-Analysis,harris,5.053359441746504
-Analysis,kamala,4.925984243568542
-Analysis,trump,3.605319155895052
-Analysis,president,3.164762470171986
-Analysis,donald,3.041013724108919
-Analysis,poll,2.8029620134361872
-Analysis,election,2.4280859766999923
-Analysis,campaign,2.3759175578358005
-Analysis,voters,1.970264783688122
-Analysis,new,1.7421317418525937
-Campaign Activity,harris,7.011767454372094
-Campaign Activity,kamala,6.466667417290448
-Campaign Activity,trump,3.2313248819974714
-Campaign Activity,president,3.054729215722743
-Campaign Activity,election,2.9593845000968293
-Campaign Activity,donald,2.6666473997635944
-Campaign Activity,vice,2.5877536196374296
-Campaign Activity,night,2.3249051930244007
-Campaign Activity,gates,2.279635049936179
-Campaign Activity,rally,2.261811111792902
-Celebrity,harris,5.96031752292026
-Celebrity,kamala,5.753960660451518
-Celebrity,rally,4.767268349808063
-Celebrity,beyonc,3.486851954011718
-Celebrity,trump,3.2017076029502953
-Celebrity,president,3.0192007292987335
-Celebrity,houston,2.727835228625518
-Celebrity,donald,2.441220181464179
-Celebrity,campaign,2.3416712071064025
-Celebrity,springsteen,2.223199260389456
-Trump,trump,1.8712791032985134
-Trump,kamala,1.7827961677901776
-Trump,harris,1.7827961677901776
-Trump,donald,1.5554040196437626
-Trump,interview,1.192226772982624
-Trump,cbs,1.1731414805776037
-Trump,president,1.0755207178958632
-Trump,minutes,0.9919082711715995
-Trump,trumps,0.9623474895343319
-Trump,rally,0.8475782010751006
+Analysis,trump,3.630111827568212
+Analysis,president,3.1877399398709203
+Analysis,donald,3.060706215399504
+Analysis,poll,2.8221507170675815
+Analysis,election,2.444340692673934
+Analysis,campaign,2.3927002166953097
+Analysis,voters,1.9858714546151202
+Analysis,new,1.7529515096010329
+Analysis,presidential,1.6522165448606376
+Analysis,vice,1.611816488450755
+Campaign Activity,trump,3.2613429656852166
+Campaign Activity,president,3.079107320266097
+Campaign Activity,election,2.9819686861829107
+Campaign Activity,donald,2.690168774290653
+Campaign Activity,vice,2.609453522537139
+Campaign Activity,night,2.3442116695522537
+Campaign Activity,gates,2.2951558007209494
+Campaign Activity,rally,2.2891866061286756
+Campaign Activity,saturday,2.1934099879140376
+Campaign Activity,campaign,2.090902920234784
+Celebrity,rally,4.810311623557362
+Celebrity,beyonc,3.5287673167242106
+Celebrity,trump,3.2216739488706696
+Celebrity,president,3.0432813275289208
+Celebrity,houston,2.764075721382761
+Celebrity,donald,2.45632365599578
+Celebrity,campaign,2.3650705673885697
+Celebrity,springsteen,2.241117810951166
+Celebrity,vice,2.199356159261294
+Celebrity,appear,1.9249925973108752
+Trump,trump,1.8921951753385406
+Trump,donald,1.5709118699905777
+Trump,interview,1.2069115475056078
+Trump,cbs,1.1872049850126407
+Trump,president,1.0853183759428706
+Trump,minutes,1.0030027929368126
+Trump,trumps,0.9688899352482498
+Trump,rally,0.855478030862955
+Trump,muslim,0.8010384280754783
+Trump,lawsuit,0.7727587232316471
